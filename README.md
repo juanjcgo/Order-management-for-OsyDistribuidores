@@ -1,2 +1,2 @@
 # Order-management-for-OsyDistribuidores
-Panel de gestion de pedidos OsyDistribuidoress
+Plugin WordPress que provee un panel de gestión de pedidos para asesores de ventas para el sitio web --> OsyDistribuidores
